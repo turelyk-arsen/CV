@@ -48,11 +48,11 @@ body {
   letter-spacing: 0px;
   font-weight: 400;
   line-height: 28px;
-  background: url("http://kingofwallpapers.com/leaves/leaves-016.jpg") right
+  /* background: url("http://kingofwallpapers.com/leaves/leaves-016.jpg") right
     no-repeat;
-  background-size: cover;
+  background-size: cover; */
 }
-body:before {
+/* body:before {
   content: "";
   display: false;
   position: fixed;
@@ -62,7 +62,7 @@ body:before {
   right: 0;
   bottom: 0;
   background-color: rgba(255, 255, 255, 0.92);
-}
+} */
 .caps {
   text-transform: uppercase;
 }
@@ -87,6 +87,9 @@ h3 {
   font-weight: 600;
   line-height: 28px;
   color: #000;
+}
+.nameProgram {
+  font-style: italic;
 }
 .page {
   width: 90%;
@@ -147,7 +150,7 @@ h3 {
   margin: -23px;
 }
 .logo {
-  background-image: url("Photo.jpg");
+  /* background-image: url("Photo.jpg"); */
   background-size: cover;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.471);
   border-radius: 5px;
