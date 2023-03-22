@@ -150,7 +150,7 @@ h3 {
   margin: -23px;
 }
 .logo {
-  /* background-image: url("Photo.jpg"); */
+  background-image: url("Photo.jpg");
   background-size: cover;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.471);
   border-radius: 5px;
