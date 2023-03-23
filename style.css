@@ -247,6 +247,7 @@ h3 {
 }
 .content-container > p.long-margin {
   margin: 0 auto 30px;
+  text-align: justify;
 }
 .title {
   width: 80%;
